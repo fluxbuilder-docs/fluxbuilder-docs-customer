@@ -15,7 +15,7 @@ const config = {
   favicon: "img/favicon.ico",
 
   organizationName: "fluxbuilder-docs", // Usually your GitHub org/user name.
-  projectName: "fluxbuilder-docs.github.io", // Usually your repo name.
+  projectName: "fluxbuilder-docs-customer", // Usually your repo name.
   deploymentBranch: "gh-pages",
 
   presets: [
