@@ -8,8 +8,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Document - FluxBuilder - An Ultimate Approach For Flutter Mobile Apps",
   tagline: "",
-  url: "https://docs.fluxbuilder.com/fluxbuilder-docs-customer",
-  baseUrl: "/",
+  url: "https://docs.fluxbuilder.com",
+  baseUrl: "/fluxbuilder-docs-customer",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
